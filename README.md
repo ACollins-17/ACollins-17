@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="https://github.com/ACollins-17.png?size=200" width="155" height="155" style="border-radius:50%;border:4px solid #2da44e;" alt="Andrew Collins" />
+# 🛠️  Meet Your Instructor
 
-# 👋 Meet Your Instructor
-
-## Andrew Collins
+## AnDREW Collins
 ### Lead Instructor /IT Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2da44e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-andrewcollins)
