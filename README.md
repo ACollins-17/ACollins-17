@@ -50,6 +50,8 @@ Changing the lives and future for upcoming IT Professionals. A dynamic leader wi
 | **Comptia Network+** | ✅ Certified |
 | **Comptia Security+** | ✅ Certified |
 | **Comptia CYSA+** | ✅ Certified |
+
+| **Microsoft Certified Professional** | ✅ Certified |
 | **Microsoft Certified: AI Business Professional** | ✅ Certified |
 | **Microsoft Certified: Azure Fundamentals** | ✅ Certified |
 | **Microsoft Technology Associate: Cloud Fundamentals** | ✅ Certified |
@@ -58,8 +60,12 @@ Changing the lives and future for upcoming IT Professionals. A dynamic leader wi
 | **MTA: Windows Operating System Fundamentals** | ✅ Certified |
 | **MTA: Security Fundamentals** | ✅ Certified |
 | **MTA: Networking Fundamentals** | ✅ Certified |
-| **Microsoft Certified Professional** | ✅ Certified |
 
+| **LPI Linux Essentials** | ✅ Certified |
+
+| **Cisco Certified Network Associate** |  |
+| **ETA Fiber Optics Technician** |  |
+| **ETA Fiber Optics Installer** |  |
 ---
 
 ## 🛠️ Skills Learned
