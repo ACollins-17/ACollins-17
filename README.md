@@ -1,5 +1,9 @@
-## Hi there 👋
+  ## 
 
+<div align="center">
+  <h1>Hi there! I'm Drew 👋</h1>
+
+# 🧑‍💻  MyComputerCareer Lead Instructor  🚀 
 <!--
 **ACollins-17/ACollins-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 
-# 🛠️  Meet Your Instructor
-
-## AnDREW Collins
-### Lead Instructor /IT Professional
+### IT Professional
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2da44e?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-andrewcollins)
 [![GitHub](https://img.shields.io/badge/GitHub-@ACollins--17-2da44e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ACollins-17)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📖 Professional Summary
-
+<div align="center">
 Changing the lives and future of upcoming IT Professionals. A dynamic leader with 30 years of experience in information technology,  training, personnel management, operations, engineering, maintenance, and project management/process improvement.
 
 ---
@@ -67,10 +67,12 @@ Changing the lives and future of upcoming IT Professionals. A dynamic leader wit
 
 | Category | Skills |
 |---|---|
-| 🌐 **Networking** | TCP/IP, DNS, DHCP, VLANs, Subnetting, BGP, OSPF, Routing & Switching, Cisco IOS, Wireshark, Packet Tracer, 802.11 Wi-Fi |
-| 🔒 **Security** | Firewalls, IDS/IPS, Encryption, SIEM, Nmap Scanning, Incident Response, Active Directory |
-| 💻 **Operating Systems** | Windows 10/11, Ubuntu Linux, Bash Scripting, Hyper-V |
-| ☁️ **Cloud & Tools** | Microsoft Azure, Microsoft 365, VirtualBox |
+| 🌐 **Networking** | TCP/IP, DNS, DHCP, VLANs, Subnetting, Topology Design, EIGRP, OSPF, Routing & Switching Security, Cisco IOS, Packet Analysis, Wi-Fi |
+| 🔒 **Security** | Firewalls, ACL's, IDS/IPS, Encryption, SIEM, Nmap Scanning, Incident Response,  System Hardening |
+| 💻 **Operating Systems** | Windows Server/10/11 Configuration, Active Directory, Hyper-V, VirtualBox, Linux, Bash Scripting |
+| ⚡**Hardware & Tools** | Servers, Desktops, Laptops, Copper & Fiber Cables, Handheld meters, scopes, Industrial Systems |
+| ☁️ **Cloud & Tools** | Microsoft Azure, Microsoft 365,  |
+| 🤖 **Emerging Tech** | AI Prompt Engineering |
 
 ---
 
